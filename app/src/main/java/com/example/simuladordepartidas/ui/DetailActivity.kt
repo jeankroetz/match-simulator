@@ -1,4 +1,4 @@
-package com.example.simuladordepartidas
+package com.example.simuladordepartidas.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -16,6 +16,5 @@ class DetailActivity : AppCompatActivity() {
 
         setSupportActionBar(binding.toolbar)
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
-
     }
 }
