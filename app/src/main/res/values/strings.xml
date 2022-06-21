@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Simulador de partidas</string>
+    <string name="descriptionBottomSimulator">Botão de ativação da simulação</string>
+    <string name="imagem_do_time_mandante">Imagem do time mandante</string>
+    <string name="imagem_do_time_visistante">Imagem do time visistante</string>
+    <string name="textViewVersus">X</string>
 </resources>
