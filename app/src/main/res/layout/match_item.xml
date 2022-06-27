@@ -58,7 +58,6 @@
             android:id="@+id/textViewPlacarTimeB"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="07"
             android:textAppearance="@style/TextAppearance.AppCompat.Large"
             app:layout_constraintBottom_toBottomOf="@+id/imageViewTimeB"
             app:layout_constraintEnd_toStartOf="@+id/imageViewTimeB"
